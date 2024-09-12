@@ -17,7 +17,7 @@
 <br>
 
 - 🎨 | [Theme](#theme)
-- ⛈️ | [Userscripts](#userscripts)
+- 📥 | [Installation](#installation)
 
 <br>
 
@@ -53,50 +53,7 @@
 
 <br>
 
-> [!IMPORTANT]
-> I am not affiliated with any of the scripts and have no influence over their development. Use them at your own risk.
-
-<br>
-
-> [!NOTE]
-> I use Violentmonkey on Brave and Firefox Developer Edition browsers.
-
-<br>
-
-# Userscripts
-
-Userscripts for ani/manga and other 🖥️🔧
-
-### 📊 | [`Anilist`](https://anilist.co/):
-
-<br>
-
-- 📧 | [`Automail`](https://greasyfork.org/en/scripts/370473-automail)
-- 🕰️ | [`anilist-nolife`](https://greasyfork.org/en/scripts/468839-anilist-nolife)
-- 🛟 | [`AniListEnhancer+`](https://greasyfork.org/en/scripts/504859-anilistenhancer)
-- 🙂 | [`Animoji`](https://greasyfork.org/en/scripts/444181-animoji)
-
-<br>
-
-### 📂 | Other:
-
-<br>
-
-- 📹 | [`VidLii video downloader`](https://greasyfork.org/en/scripts/487046-vidlii-video-downloader)
-
-<br>
-
-### ⚙️ | Configurations
-
-<br>
-
-- 📧 | [Automail](automail/README.md)
-
-<br>
-
-## 📥 | Installation
-
-1. First, you need userscript manager:
+# Installation
 
 ### 🖥️/💻
 
@@ -124,6 +81,3 @@ Userscripts for ani/manga and other 🖥️🔧
 
 <br>
 
-2. Once you have chosen a userscript manager, click on the link to the userscript you want. [Go to Userscripts](#userscripts)
-
-<br>
